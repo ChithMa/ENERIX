@@ -1,0 +1,35 @@
+/*Header*/
+
+.head-title {
+    background-color: #0B1E20;
+    color: white;
+    text-align: center;
+    padding: 15px 20px;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #3EBA8F;
+    padding-bottom: 0px;
+}
+nav a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+nav a:hover {
+    background-color: #94d2bd;
+}
+
+
+
+/*Footer*/
+
+footer {
+    background-color: #0B1E20;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
